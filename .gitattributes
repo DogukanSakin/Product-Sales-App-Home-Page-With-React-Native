@@ -7,4 +7,4 @@
 *.bzl linguist-detectable=false
 *.mk linguist-detectable=false
 SimpleProductSaleApp/Gemfile linguist-vendored
-SimpleProductSaleApp/ios/Podfile
+SimpleProductSaleApp/ios/Podfile linguist-vendored
