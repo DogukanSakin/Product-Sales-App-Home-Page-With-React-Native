@@ -6,4 +6,7 @@
 *.lock linguist-detectable=false
 *.bzl linguist-detectable=false
 *.mk linguist-detectable=false
-
+*/Ruby linguist-detectable=false
+*./Ruby linguist-detectable=false
+*.Ruby linguist-detectable=false
+**/Ruby linguist-detectable=false
