@@ -6,4 +6,5 @@
 *.lock linguist-detectable=false
 *.bzl linguist-detectable=false
 *.mk linguist-detectable=false
-SimpleProductSaleApp/Gemfile linguist-vendored
+*/Gemfile linguist-vendored
+SimpleProductSaleApp/ios/Podfile
