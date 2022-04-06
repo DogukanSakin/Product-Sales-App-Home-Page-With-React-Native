@@ -3,3 +3,6 @@
 *.mm linguist-detectable=false
 *.h linguist-detectable=false
 *.m linguist-detectable=false
+*.lock linguist-detectable=false
+*.bzl linguist-detectable=false
+*.mk linguist-detectable=false
