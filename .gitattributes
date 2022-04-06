@@ -8,3 +8,4 @@
 *.mk linguist-detectable=false
 */Gemfile linguist-vendored
 */ios/Podfile linguist-vendored
+*/Gemfile.lock linguist-vendored
